@@ -23,13 +23,11 @@ Development tool: PyCharm 2020.
 
 ##### start
 
-###### 本项目使用了百度云 AI 的 API 接口实现。因此需要先申请对应的 API 使用权限，具体步骤如下。  
-
-(1)在网页浏览器(比如 Chrome 或者火狐)的地址栏中输入 ai.baidu.com，进入到百度云 AI 的官网， 点击蓝色“控制台”按钮。  
-(2)进入到百度云 AI 官网的登录页面，该页面中需要输入百度账号和密码，如果没有，请单击“立即注册”超链接进行申请。  
-(3)登录成功后，进入到百度云 AI 官网的控制台页面，单击左侧导航中的“产品服务”，展开列表， 在列表的最右侧下方看到有“人工智能”的分类，该分类中选择“图像识别”。  
-(4)进入“图像识别 - 概览”页面，要使用百度云 AI 的 API，首先需要申请权限，申请权限之前需要先创建自己的应用，因此单击“创建应用”。  
-5)进入到“创建应用”页面，该页面中需要输入应用的名称，选择应用类型，并选择接口输入应用描述，单击“立即创建”按钮。  
-(6)创建完成后，单击“返回应用列表”按钮，页面跳转到应用列表页面，该页面中即可查看创建的应用，以及百度云自动为您分配的 AppID、API Key、Secret Key，这些值根据应用的不同而不同，一定要妥善保存。
-
- 
+This project uses the API interface of Baidu Cloud AI. 
+Therefore, you need to apply for the corresponding API permission first. The specific steps are as follows. 
+(1) enter ai.baidu.com, in the address bar of a web browser (such as Chrome or Firefox) to go to Baidu Cloud AI's official website and click the blue "console" button. 
+(2) go to the login page of Baidu Cloud AI official website, where you need to enter your Baidu account and password. If not, please click the "register now" hyperlink to apply. 
+(3) after logging in successfully, go to the console page of Baidu Cloud AI official website, click "products and Services" in the left navigation, expand the list, and you can see the category of "artificial intelligence" at the bottom of the list. Select "Image recognition" in this category. 
+(4) to enter the "Image recognition-Overview" page, you need to apply for permission to use the API, of Baidu Cloud AI, and you need to create your own application before applying for permission, so click "create Application". 
+5) go to the "create Application" page, where you need to enter the name of the application, select the application type, select the interface to enter the application description, and click the "create now" button. 
+(6) after the creation is completed, click the "return to App list" button, and the page jumps to the App list page, where you can view the created Apps and the values of AppID, API Key and Secret Key, automatically assigned to you by Baidu Cloud, which vary from application to application. Be sure to save them properly.
